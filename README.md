@@ -12,5 +12,7 @@ We will be training our model using sklearn’s `train_test_split`
 
 While train-to-test percentages will be better determined once we clean our datasets, we are initially thinking a 80% train and 20% test split.
 
-Please see below a mockup of our machine learning model. 
+Please see below a mockup of our machine learning model. Please note that the diagram below is just an illustration of our approach (the number of hidden layers and neurons are still to be determined as we continue to test the model).
+
+
 ![ml_mockup](ml_mockup.png)
