@@ -16,11 +16,11 @@ Olympia Pahuunang| Circle | Designed the mock up csv files for stock and econimi
 Tori Taylor | Circle | Developed the ERD / explanation for databases.|
 
 ## Data Sources:
-[yFinance](./https://pypi.org/project/yfinance/) - Offers a wide variety of data on stocks, for example historical market prices.
+yFinance https://pypi.org/project/yfinance/ - Offers a wide variety of data on stocks, for example historical market prices.
 
-[OECD iLibrary](./https://www.oecd-ilibrary.org/sites/67e0d99f-en/index.html?itemId=/content/component/67e0d99f-en) - Contains GDP / economic analyses and data for a variety of factors.
+OECD iLibrary https://www.oecd-ilibrary.org/sites/67e0d99f-en/index.html?itemId=/content/component/67e0d99f-en - Contains GDP / economic analyses and data for a variety of factors.
 
-[US Department of Treasury](./https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_real_long_term&field_tdr_date_value=all) - Stores the different interest rates of the US Federal Reserve dating from 1/03/2000
+[US Department of Treasury] https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_real_long_term&field_tdr_date_value=all - Stores the different interest rates of the US Federal Reserve dating from 1/03/2000
 
 ## Questions the Team Members are Trying to Answer:
 1.  Is there any industry that is more or less affected by the econmy.
