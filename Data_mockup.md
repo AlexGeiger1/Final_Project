@@ -16,13 +16,14 @@ The following are the Global Industry Classification Standard (GICS) Sector:
 •	Real Estate
 •	Utilities
 
-Screenshot of the S&P500 Tickers information:
+Screenshot of S&P500 Tickers information - CSV file:
 
 ![SnP500-Tickers_Information.png](https://github.com/AlexGeiger1/Final_Project/blob/ticker_mockup/SnP500-Tickers_Information.png)
 
 
 
-Screenshot of sample Communication Services Sector, top 5 Tickers for the past 3 days
+Sample Communication Services Sector, top 5 Tickers for the past 3 days
 
 
 ![communication_services.png](https://github.com/AlexGeiger1/Final_Project/blob/ticker_mockup/communication_services.png)
+
