@@ -31,7 +31,7 @@ Tori Taylor | Circle | Developed the ERD / explanation for databases.|
 
 
 ## Machine Learning Model Mock Up
-![Machine Learning Model](https://github.com/AlexGeiger1/Final_Project/blob/main/ML_Model_description.md)
+[Machine Learning Model](https://github.com/AlexGeiger1/Final_Project/blob/main/ML_Model_description.md)
 
 
 ## Mock Up Data
