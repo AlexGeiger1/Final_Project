@@ -26,6 +26,19 @@ Tori Taylor | Circle | Developed the ERD / explanation for databases.|
 1.  Is there any industry that is more or less affected by the econmy.
 2.  If so, which industries and what factors are correlated these effects?
 
+## Technologies
+[Technology.md](https://github.com/AlexGeiger1/Final_Project/blob/main/technology.md)
+
+
+## Machine Learning Model Mock Up
+![Machine Learning Model](https://github.com/AlexGeiger1/Final_Project/blob/main/ML_Model_description.md)
+
+
+## Mock Up Data
+[Mock Data](https://github.com/AlexGeiger1/Final_Project/blob/main/Data_mockup.md) - Data
+
+
+
 ## Communication Plan for the Team:
 
 Messaging - Members-only Slack group created - 24/7
