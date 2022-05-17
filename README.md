@@ -35,7 +35,7 @@ Tori Taylor | Circle | Developed the ERD / explanation for databases.|
 
 
 ## Mock Up Data
-[Mock Data](https://github.com/AlexGeiger1/Final_Project/blob/main/Data_mockup.md) - Data
+[Mock Data](https://github.com/AlexGeiger1/Final_Project/blob/main/Data_mockup.md)
 
 
 
