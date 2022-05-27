@@ -1,4 +1,4 @@
-Year,GICS_Sector,Ticker,Avg_Daily_Close_Change,Avg_Adj_Close
+years,gics_sector,ticker,avg_daily_close_change,avg_adj_close
 2013,Communication Services,DIS,0.0018126760786908557,57.21306569235666
 2013,Communication Services,DISH,0.0019652207110347247,42.98599205319844
 2013,Communication Services,EA,0.002102930731170735,21.654789784597973
