@@ -9,6 +9,7 @@ https://public.tableau.com/app/profile/o.pahunang/viz/DataSummary_16537392319910
 ### Avg Adj Close Summary
 
 ![avg_adj_close.png](https://github.com/AlexGeiger1/Final_Project/blob/main/avg_adj_close.png)
+
 https://public.tableau.com/app/profile/o.pahunang/viz/AvgAdjClose/AvgAdjClose?publish=yes
 
 
