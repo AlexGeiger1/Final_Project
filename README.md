@@ -4,7 +4,7 @@
 
 ### Purpose:  The purpose of this analysis is to look at how US macro economic factors, such as the Federal Reserve interest rates, impact stock prices.  The topic was selected because team members are interested in which industries are the most affected by various economic variables.
 
-### Objective:  Using a neural network model for Machine Learning along with historical stock and selected economic data, the economic factors are analyzed for their affect within each chosed industry sector.  The objective is to predict which industries may be the most stable for investment purposes. 
+### Objective:  Using a basic neural network model for Machine Learning along with historical stock and selected economic data, the economic factors are analyzed for their affect within each chosed industry sector.  The objective is to predict which industries may be the most stable for investment purposes. 
 
 
 Member | Role| Description |
@@ -20,16 +20,28 @@ Tori Taylor | X | Started the storyboard that will be implemented in the final d
 
 [OECD iLibrary](https://www.oecd-ilibrary.org/sites/67e0d99f-en/index.html?itemId=/content/component/67e0d99f-en) - Contains GDP / economic analyses and data for a variety of factors.
 
-[US Department of Treasury](https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_real_long_term&field_tdr_date_value=all) - Stores the different interest rates of the US Federal Reserve dating from 1/03/2000
-
 ## Questions the Team Members are Trying to Answer:
 1.  Is there any industry that is more or less affected by the econmy.
 2.  If so, which industries and what factors are correlated these effects?
 
+## Preprocessing Code and Database Creation
+[Pulling the Data from their Sources](https://github.com/AlexGeiger1/Final_Project/blob/ETL_Part1/etl_part_1_README.md)
+
+[Cleaning and Preparing the Data](https://github.com/AlexGeiger1/Final_Project/blob/ETL_Part2/ETL_Part2/FINALETL.md)
+
 ## Machine Learning Model
 [Basic Neural Network](https://github.com/AlexGeiger1/Final_Project/blob/ML-Model/ML-Model_Description.md)
 
+## Starting the Dashboard
+[First Draft of StoryBoard](https://docs.google.com/presentation/d/12G15rPOPuCUuZSIIwLfuRW0xW_Ynn-w5GxC-vzfCT3Q/edit?usp=sharing)
 
+## Relevant Code
+- [Pulling SNP500 stock data from yfinance Pt.1](https://github.com/AlexGeiger1/Final_Project/blob/main/ETL-Part_1.ipynb)
+- [Pulling SNP500 stock data from yfinance Pt.2](https://github.com/AlexGeiger1/Final_Project/blob/main/Code_ETL_Part2_Final_Ticker_Table.ipynb)
+- [Selecting specific OECD library features](https://github.com/AlexGeiger1/Final_Project/blob/main/Code_ETL_Part2_Final_Econ_Table.ipynb)
+- [Individual Econ and Stock Data Table Schema](https://github.com/AlexGeiger1/Final_Project/blob/main/schema.sql)
+- [Combined Econ and Stock Data Table Schema](https://github.com/AlexGeiger1/Final_Project/blob/main/query.sql)
+- [Integrating Data into the Machine Learning Model - A Basic Neural Network](https://github.com/AlexGeiger1/Final_Project/blob/main/Machine%20Learning%20Model%20Basic%20Neural%20Network.ipynb)
 
 ## Communication Plan for the Team:
 
