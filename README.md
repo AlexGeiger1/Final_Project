@@ -9,11 +9,11 @@
 
 Member | Role| Description |
 ------|------|-----------|
-Alexander Geiger| Square | Created repository and Managed the branches. |
-Zahra Foradi| Triangle | Designed and Diagrammed the Machine Learning Model. |
-Misa Jung| X | Decided what technologies were to be used for each step. |
-Olympia Pahuunang| Circle | Designed the mock up csv files for stock and econimic factor data. |
-Tori Taylor | Circle | Developed the ERD / explanation for databases.|
+Alexander Geiger| Square | Created Machine Learning Model Code. |
+Zahra Foradi| Triangle | Completed the final ticker data and integrated the database with AWS. |
+Misa Jung| Square | Created the Machine Learning Model. |
+Olympia Pahuunang| Circle | Finished the Data summary, helped with the ETL, and completed data visuals. |
+Tori Taylor | X | Started the storyboard that will be implemented in the final dashboard.|
 
 ## Data Sources:
 [yFinance](https://pypi.org/project/yfinance/) - Offers a wide variety of data on stocks, for example historical market prices.
@@ -26,16 +26,8 @@ Tori Taylor | Circle | Developed the ERD / explanation for databases.|
 1.  Is there any industry that is more or less affected by the econmy.
 2.  If so, which industries and what factors are correlated these effects?
 
-## Technologies
-[Technology.md](https://github.com/AlexGeiger1/Final_Project/blob/main/technology.md)
-
-
-## Machine Learning Model Mock Up
-[Machine Learning Model](https://github.com/AlexGeiger1/Final_Project/blob/main/ML_Model_description.md)
-
-
-## Mock Up Data
-[Mock Data](https://github.com/AlexGeiger1/Final_Project/blob/main/Data_mockup.md)
+## Machine Learning Model
+[Basic Neural Network](https://github.com/AlexGeiger1/Final_Project/blob/ML-Model/ML-Model_Description.md)
 
 
 
