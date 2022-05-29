@@ -24,16 +24,21 @@ Tori Taylor | X | Started the storyboard that will be implemented in the final d
 1.  Is there any industry that is more or less affected by the econmy.
 2.  If so, which industries and what factors are correlated to these effects?
 
-## Preprocessing Code and Database Creation
+## Preprocessing Code
 [Pulling the Data from their Sources](https://github.com/AlexGeiger1/Final_Project/blob/ETL_Part1/etl_part_1_README.md)
 
 [Cleaning and Preparing the Data](https://github.com/AlexGeiger1/Final_Project/blob/ETL_Part2/ETL_Part2/FINALETL.md)
+
+## Database
+[Integration of Database](https://github.com/AlexGeiger1/Final_Project/blob/Postgres-DB/Postgres-DB/DB_Description.md)
 
 ## Machine Learning Model
 [Basic Neural Network](https://github.com/AlexGeiger1/Final_Project/blob/ML-Model/ML-Model_Description.md)
 
 ## Starting the Dashboard
 [First Draft of StoryBoard](https://docs.google.com/presentation/d/12G15rPOPuCUuZSIIwLfuRW0xW_Ynn-w5GxC-vzfCT3Q/edit?usp=sharing)
+
+[Potential Data Visualizations](https://github.com/AlexGeiger1/Final_Project/blob/data_visualization/data_visualization_README.md)
 
 ## Relevant Code
 - [Pulling SNP500 stock data from yfinance Pt.1](https://github.com/AlexGeiger1/Final_Project/blob/main/ETL-Part_1.ipynb)
