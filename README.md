@@ -11,7 +11,7 @@ Member | Role| Description |
 ------|------|-----------|
 Alexander Geiger| Square | Created Machine Learning Model Code. |
 Zahra Foradi| Triangle | Completed the final ticker data and integrated the database with AWS. |
-Misa Jung| Square | Created the Machine Learning Model. |
+Misa Jung| Square | Created Machine Learning Model Code. |
 Olympia Pahuunang| Circle | Finished the Data summary, helped with the ETL, and completed data visuals. |
 Tori Taylor | X | Started the storyboard that will be implemented in the final dashboard.|
 
@@ -22,7 +22,7 @@ Tori Taylor | X | Started the storyboard that will be implemented in the final d
 
 ## Questions the Team Members are Trying to Answer:
 1.  Is there any industry that is more or less affected by the econmy.
-2.  If so, which industries and what factors are correlated these effects?
+2.  If so, which industries and what factors are correlated to these effects?
 
 ## Preprocessing Code and Database Creation
 [Pulling the Data from their Sources](https://github.com/AlexGeiger1/Final_Project/blob/ETL_Part1/etl_part_1_README.md)
