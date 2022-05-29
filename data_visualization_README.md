@@ -49,4 +49,20 @@ https://public.tableau.com/app/profile/o.pahunang/viz/BoxPlot-AvgAdjCloseperSect
 https://public.tableau.com/app/profile/o.pahunang/viz/BoxPlot-AvgDailyCloseChangeperSector/BoxPlot-AvgDailyCloseChangeperSector?publish=yes
 
 
+### Bubble Chart
+
+![Bubble_Chart.png](https://github.com/AlexGeiger1/Final_Project/blob/data_visualization/Bubble_Chart.png)
+https://public.tableau.com/app/profile/o.pahunang/viz/BubbleChart_16537898573670/BubbleChart?publish=yes
+
+
+### Scatter Plot
+
+![Scatter_Plot.png](https://github.com/AlexGeiger1/Final_Project/blob/data_visualization/Scatter_Plot.png)
+https://public.tableau.com/app/profile/o.pahunang/viz/ScatterPlot_16537852557310/ScatterPlot?publish=yes
+
+
+
+
+
+
 
