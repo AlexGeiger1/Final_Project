@@ -61,8 +61,14 @@ https://public.tableau.com/app/profile/o.pahunang/viz/BubbleChart_16537898573670
 https://public.tableau.com/app/profile/o.pahunang/viz/ScatterPlot_16537852557310/ScatterPlot?publish=yes
 
 
+### Bar Chart
+
+![Bar_Chart_Avg_Adj_Close.png](https://github.com/AlexGeiger1/Final_Project/blob/data_visualization/Bar_Chart_Avg_Adj_Close.png)
+https://public.tableau.com/app/profile/o.pahunang/viz/TickerBarChart-AvgAdjClose/AvgAdjClose-TickerandSector?publish=yes
 
 
+![Bar_Chart_Avg_Daily_Close_Change.png](https://github.com/AlexGeiger1/Final_Project/blob/data_visualization/Bar_Chart_Avg_Daily_Close_Change.png)
+https://public.tableau.com/app/profile/o.pahunang/viz/TickerBarChart-AvgDailyCloseChange/AvgDailyCloseChange-TickerandSector?publish=yes
 
 
 
