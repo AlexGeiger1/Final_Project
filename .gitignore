@@ -33,6 +33,16 @@ MANIFEST
 *.manifest
 *.spec
 
+#.md Files
+ML_Model_description_1.md
+ML-Model_Description.md
+
+#.IPYNB files
+Machine Learning Model Deep Learning Model.ipynb
+
+#Folders
+Resources
+
 # Installer logs
 pip-log.txt
 pip-delete-this-directory.txt
