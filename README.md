@@ -46,7 +46,10 @@ Tori Taylor | X | Started the storyboard that will be implemented in the final d
 - [Selecting specific OECD library features](https://github.com/AlexGeiger1/Final_Project/blob/main/Code_ETL_Part2_Final_Econ_Table.ipynb)
 - [Individual Econ and Stock Data Table Schema](https://github.com/AlexGeiger1/Final_Project/blob/main/schema.sql)
 - [Combined Econ and Stock Data Table Schema](https://github.com/AlexGeiger1/Final_Project/blob/main/query.sql)
-- [Integrating Data into the Machine Learning Model - A Basic Neural Network](https://github.com/AlexGeiger1/Final_Project/blob/main/Machine%20Learning%20Model%20Basic%20Neural%20Network.ipynb)
+- Integrating Data into the Machine Learning Model
+  - [Model Selected: Basic Neural Network](https://github.com/AlexGeiger1/Final_Project/blob/main/Machine%20Learning%20Model%20Basic%20Neural%20Network.ipynb)
+  - [Deep Learning Model (Didn't Pick: Too Low of an Accuracy Score)](https://github.com/AlexGeiger1/Final_Project/blob/main/Machine%20Learning%20Model%20Deep%20Learning%20Model.ipynb)
+  - [RandomForest Model(Didn't Pick: Too High of a Prediction Score)](https://github.com/AlexGeiger1/Final_Project/blob/main/Machine%20Learning%20Model%20RandomForest%20.ipynb)
 
 ## Code Requirements
 - [requirement.txt](https://github.com/AlexGeiger1/Final_Project/blob/requirements/requirements.txt)
