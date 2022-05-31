@@ -48,6 +48,9 @@ Tori Taylor | X | Started the storyboard that will be implemented in the final d
 - [Combined Econ and Stock Data Table Schema](https://github.com/AlexGeiger1/Final_Project/blob/main/query.sql)
 - [Integrating Data into the Machine Learning Model - A Basic Neural Network](https://github.com/AlexGeiger1/Final_Project/blob/main/Machine%20Learning%20Model%20Basic%20Neural%20Network.ipynb)
 
+## Code Requirements
+- [requirement.txt](https://github.com/AlexGeiger1/Final_Project/blob/requirements/requirements.txt)
+
 ## Communication Plan for the Team:
 
 Messaging - Members-only Slack group created - 24/7
