@@ -9,11 +9,10 @@
 
 Member | Role| Description |
 ------|------|-----------|
-Alexander Geiger| Square | Created Machine Learning Model Code. |
-Zahra Foradi| Triangle | Completed the final ticker data and integrated the database with AWS. |
-Misa Jung| Square | Created Machine Learning Model Code. |
-Olympia Pahuunang| Circle | Finished the Data summary, helped with the ETL, and completed data visuals. |
-Tori Taylor | X | Started the storyboard that will be implemented in the final dashboard.|
+Alexander Geiger| Square | Cleaned GitHub repository, created requirements.txt file. |
+Zahra Foradi| Triangle | Checked everyones work against rubric and gave feedback. |
+Olympia Pahuunang| Circle | Wrote and edited the presentation on Google slides. |
+Tori Taylor | X | Started working on final draft of the Tableu Dashboard.|
 
 ## Data Sources:
 [yFinance](https://pypi.org/project/yfinance/) - Offers a wide variety of data on stocks, for example historical market prices.
@@ -53,9 +52,3 @@ Tori Taylor | X | Started the storyboard that will be implemented in the final d
 
 ## Code Requirements
 - [requirement.txt](https://github.com/AlexGeiger1/Final_Project/blob/requirements/requirements.txt)
-
-## Communication Plan for the Team:
-
-Messaging - Members-only Slack group created - 24/7
-
-Calls/Meetings - Microsoft Teams - Four Times/ Week including class times; and as needed.
