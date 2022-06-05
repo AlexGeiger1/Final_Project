@@ -19,4 +19,4 @@ process
 
 
 ## Edits Made to Model Based on Feedback
-- The model was overfitting so through trial and error, we decided as a team that the best way to stop over fitting was to lower the epoch count. This is because the model stopped overfitting but still had a good accuracy score (80-90%)
+- The model was overfitting so through trial and error, we decided as a team that the best way to stop over fitting was to lower the epoch count from 50 to 15. This is because the model stopped overfitting but still had a suitable accuracy score (80-90%).
