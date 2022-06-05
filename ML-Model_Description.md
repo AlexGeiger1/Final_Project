@@ -16,3 +16,7 @@ process
 - The benefit of using a neural network is that there is an abundance of stock data available that we could now use with this model.
 
 ![Results](https://github.com/AlexGeiger1/Final_Project/blob/ML-Model/Resources/results.png)
+
+
+## Edits Made to Model Based of Feedback
+- The model was overfitting so through trial and error, we decided as a team that the best way to stop over fitting was to lower the epoch count. This is because the model stopped overfitting but still had a good accuracy score (80-90%)
