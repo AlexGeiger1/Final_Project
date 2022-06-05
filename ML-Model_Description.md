@@ -20,3 +20,7 @@ process
 
 ## Edits Made to Model Based on Feedback
 - The model was overfitting so through trial and error we decided as a team that the best way to stop over fitting was to lower the epoch count from 50 to 15. This is because the model stopped overfitting but still had a suitable accuracy score (80-90%).
+
+## Side Notes
+- A Deep Learning Model was originally strategized as the best machine learning model for our data, however when the code was actually ran we were met with some problems. At first our accuracy was somewhat low, around 50-60%. The group attempted changing many different pieces in an attempt to raise this score, however every attempt brought our accuracy lower and lower. Ultimately, we agreed as a team a different model was necessary. 
+- Another model that was attempted was the RandomForest machine learning model. This model is known for performing well with lots of features so we assumed it would fit nicely with our model. Unfortunately, the RandomForest code predicted our data 100% correctly, and was way overfitting the data. This lead us to choosing a different model so stray away from overfitting. 
