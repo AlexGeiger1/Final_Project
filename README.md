@@ -10,9 +10,9 @@
 Member | Role| Description |
 ------|------|-----------|
 Alexander Geiger| Square | Cleaned GitHub repository, created requirements.txt file. |
-Zahra Foradi| Triangle | Checked everyones work against rubric and gave feedback. |
-Olympia Pahuunang| Circle | Wrote and edited the presentation on Google slides. |
-Tori Taylor | X | Started working on final draft of the Tableu Dashboard.|
+Zahra Foradi| X | Checked everyones work against rubric and gave feedback. |
+Olympia Pahuunang| Triangle | Wrote and edited the presentation on Google slides. |
+Tori Taylor | Circle | Started working on final draft of the Tableu Dashboard.|
 
 ## Data Sources:
 [yFinance](https://pypi.org/project/yfinance/) - Offers a wide variety of data on stocks, for example historical market prices.
