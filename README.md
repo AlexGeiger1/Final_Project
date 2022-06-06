@@ -48,7 +48,7 @@ Tori Taylor | Circle | Started working on final draft of the Tableu Dashboard.|
 - Integrating Data into the Machine Learning Model
   - [Model Selected: Basic Neural Network](https://github.com/AlexGeiger1/Final_Project/blob/main/Machine%20Learning%20Model%20Basic%20Neural%20Network.ipynb)
   - [Deep Learning Model (Didn't Pick: Too Low of an Accuracy Score)](https://github.com/AlexGeiger1/Final_Project/blob/main/Machine%20Learning%20Model%20Deep%20Learning%20Model.ipynb)
-  - [RandomForest Model(Didn't Pick: Too High of a Prediction Score)](https://github.com/AlexGeiger1/Final_Project/blob/main/Machine%20Learning%20Model%20RandomForest%20.ipynb)
+  - [RandomForest Model (Didn't Pick: Too High of a Prediction Score)](https://github.com/AlexGeiger1/Final_Project/blob/main/Machine%20Learning%20Model%20RandomForest%20.ipynb)
 
 ## Code Requirements
 - [requirement.txt](https://github.com/AlexGeiger1/Final_Project/blob/requirements/requirements.txt)
