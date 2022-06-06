@@ -54,4 +54,4 @@ Tori Taylor | X | Started working on final draft of the Tableu Dashboard.|
 - [requirement.txt](https://github.com/AlexGeiger1/Final_Project/blob/requirements/requirements.txt)
 
 ## Presentation
-[Presentation Slides](https://docs.google.com/presentation/d/1Wa2CK4S8YAHghysIwdNo9XwPvDe5Ak5wnVQjEUF4iZg/edit#slide=id.p5)
+- [Presentation Slides](https://docs.google.com/presentation/d/1Wa2CK4S8YAHghysIwdNo9XwPvDe5Ak5wnVQjEUF4iZg/edit#slide=id.p5)
