@@ -11,6 +11,7 @@ Member | Role| Description |
 ------|------|-----------|
 Alexander Geiger| Square | Cleaned GitHub repository, created requirements.txt file. |
 Zahra Foradi| X | Checked everyones work against rubric and gave feedback. |
+Misa Jung| Square | Created Machine Learning Model.|
 Olympia Pahuunang| Triangle | Wrote and edited the presentation on Google slides. |
 Tori Taylor | Circle | Started working on final draft of the Tableu Dashboard.|
 
@@ -54,7 +55,8 @@ Tori Taylor | Circle | Started working on final draft of the Tableu Dashboard.|
 - [requirement.txt](https://github.com/AlexGeiger1/Final_Project/blob/requirements/requirements.txt)
 
 ## Dashboard
-- [Stock Analysis](https://public.tableau.com/app/profile/tori.taylor/viz/StockAnalysis_16544821046200/StockAnalysis?publish=yes)
+- [Stock Analysis](https://public.tableau.com/app/profile/tori.taylor/viz/ExploratoryDashboard_16546437852760/ExploratoryDashboard?publish=yes)
+- Conclusion
 
 ## Presentation
 - [Presentation Slides](https://docs.google.com/presentation/d/1Wa2CK4S8YAHghysIwdNo9XwPvDe5Ak5wnVQjEUF4iZg/edit?usp=sharing)
