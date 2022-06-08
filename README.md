@@ -60,3 +60,4 @@ Tori Taylor | Circle | Started working on final draft of the Tableu Dashboard.|
 
 ## Presentation
 - [Presentation Slides](https://docs.google.com/presentation/d/1Wa2CK4S8YAHghysIwdNo9XwPvDe5Ak5wnVQjEUF4iZg/edit?usp=sharing)
+- [Speaker Notes](https://github.com/AlexGeiger1/Final_Project/blob/speakernotes/speakernotes.md)
