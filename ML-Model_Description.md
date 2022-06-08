@@ -11,11 +11,10 @@ process
 - We used sklearn's train_test_split code to train and test the code.
 
 ![Train and Test Pic](https://github.com/AlexGeiger1/Final_Project/blob/ML-Model/Resources/splitandtrain.png)
-## Model Choice
-- One of the limitations of neural networks is that they are prone to overfitting. Our basic neural network accuracy may have reached 97% because we do not have enough data points 
-- The benefit of using a neural network is that there is an abundance of stock data available that we could now use with this model.
 
-![Results](https://github.com/AlexGeiger1/Final_Project/blob/ML-Model/Resources/results.png)
+## Benefits and Drawbacks of Using Neural Network
+- A major limitaion of our model is that its prone to overfitting, fortunately there is an overabundance of Stock data in the world so it is less likely to overfit. 
+- The best benefit of using our model is it is great for using on big data sets, such as stocks wehrer there is well over a 1000 data points for it to train and test with. 
 
 
 ## Edits Made to Model Based on Feedback
@@ -24,3 +23,13 @@ process
 ## Side Notes
 - A Deep Learning Model was originally strategized as the best machine learning model for our data, however when the code was actually ran we were met with some problems. At first our accuracy was somewhat low, around 50-60%. The group attempted changing many different pieces in an attempt to raise this score, however every attempt brought our accuracy lower and lower. Ultimately, we agreed as a team a different model was necessary. 
 - Another model that was attempted was the RandomForest machine learning model. This model is known for performing well with lots of features so we assumed it would fit nicely with our model. Unfortunately, the RandomForest code predicted our data 100% correctly, and was way overfitting the data. This lead us to choosing a different model so stray away from overfitting. 
+
+## Learning Curve and Confusion Matrix
+![Model Accuracy](https://github.com/AlexGeiger1/Final_Project/blob/main/Resources/model%20accuracy.png)
+![Model Loss](https://github.com/AlexGeiger1/Final_Project/blob/main/Resources/model%20loss.png)
+
+- Here we see our learning curve improving with each epoch.
+
+Confusion Matrix
+
+![Final Results](https://github.com/AlexGeiger1/Final_Project/blob/main/Resources/lossandaccurac.png)
