@@ -56,7 +56,7 @@ Tori Taylor | Circle | Started working on final draft of the Tableu Dashboard.|
 
 ## Dashboard
 - [Stock Analysis](https://public.tableau.com/app/profile/tori.taylor/viz/ExploratoryDashboard_16546437852760/ExploratoryDashboard?publish=yes)
-- Conclusion
+- [Conclusion](https://public.tableau.com/app/profile/zahra8438/viz/ConclusionDashboard_16546475940570/ConclusionDashboard?publish=yes)
 
 ## Presentation
 - [Presentation Slides](https://docs.google.com/presentation/d/1Wa2CK4S8YAHghysIwdNo9XwPvDe5Ak5wnVQjEUF4iZg/edit?usp=sharing)
