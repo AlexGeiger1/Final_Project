@@ -7,13 +7,13 @@
 ### Objective:  Using a basic neural network model for Machine Learning along with historical stock and selected economic data, the economic factors are analyzed for their affect within each chosed industry sector.  The objective is to predict which industries may be the most stable for investment purposes. 
 
 
-Member | Role| Description |
-------|------|-----------|
-Alexander Geiger| Square | Cleaned GitHub repository, created requirements.txt file. |
-Zahra Foradi| X | Checked everyones work against rubric and gave feedback. |
-Misa Jung| Square | Created Machine Learning Model.|
-Olympia Pahuunang| Triangle | Wrote and edited the presentation on Google slides. |
-Tori Taylor | Circle | Started working on final draft of the Tableu Dashboard.|
+Group Members | 
+------ | 
+Alexander Geiger|  
+Zahra Foradi| 
+Misa Jung| 
+Olympia Pahuunang| 
+Tori Taylor | 
 
 ## Data Sources:
 [yFinance](https://pypi.org/project/yfinance/) - Offers a wide variety of data on stocks, for example historical market prices.
